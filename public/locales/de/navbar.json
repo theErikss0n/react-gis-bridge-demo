@@ -1,0 +1,8 @@
+{
+  "modules": {
+    "app-viewer": "Apps",
+    "app-manager": "Meine Apps",
+    "campaign-manager": "Meine Kampagnen",
+    "app-store": "App Store"
+  }
+}

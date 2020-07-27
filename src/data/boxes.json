@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Tree 1",
+    "position": [
+      13.380030,
+      52.518836
+    ],
+    "box": {
+      "dimensions": [
+        10,
+        10,
+        10
+      ],
+      "color": "red"
+    }
+  },
+  {
+    "name": "Tree 1",
+    "position": [
+      13.380033,
+      52.518833
+    ],
+    "box": {
+      "dimensions": [
+        10,
+        10,
+        10
+      ],
+      "color": "red"
+    }
+  },
+  {
+    "name": "Tree 1",
+    "position": [
+      13.380027,
+      52.518834
+    ],
+    "box": {
+      "dimensions": [
+        10,
+        10,
+        10
+      ],
+      "color": "red"
+    }
+  },
+  {
+    "name": "Tree 1",
+    "position": [
+      13.380037,
+      52.518836
+    ],
+    "box": {
+      "dimensions": [
+        10,
+        10,
+        10
+      ],
+      "color": "red"
+    }
+  }
+]
